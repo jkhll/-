@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.left {
+    height: 40px;
+    background: gray
+}
+
+.name {
+    padding: 13px 20px;
+    font-size: 14px;
+    color: white;
+}
+
+.wrapper {
+    height: 80px;
+    border-bottom: .5px solid white;
+    border-top: 1px solid rgb(175, 171, 171);    
+}
+.title {
+    float: left;
+    display: block;
+    height: 80px;
+    width: 120px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 80px;
+    background-color: rgb(175, 171, 171); 
+}
+.fleft{
+    float: left;
+}
+a {
+    color: blue;
+}
+
